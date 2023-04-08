@@ -1,2 +1,9 @@
-# PyGraphPlotterGUI
-Python Graph Plotter is a graphical user interface program developed in Python using the Matplotlib library to create different types of plots, such as line, bar, area, scatter, histogram, and pie charts. Users can input their own data and customize the appearance of the charts, including labels, colors, and axis scaling.
+# PyGraphPlotter
+
+ To use this code, it is necessary to have the Matplotlib and Tkinter library installed in Python. Then, simply run the code and follow the instructions presented by the program.
+ 
+ ## To install the dependencies:
+```pip install matplotlib
+pip install tkinter
+```
+
