@@ -2,10 +2,14 @@
 
 This is a Python program with a graphical interface that allows users to create different types of plots using Matplotlib library. The program provides options for creating line plots, scatter plots, bar plots, area plots, histograms, and pie charts. The user can input data for each plot and customize various plot settings such as plot colors, labels, and titles.
 
-To run this program, you need to have Python installed on your system along with the Matplotlib library. You can install Matplotlib using the following command:
+To run this program, you need to have Python installed on your system along with the Matplotlib and Tkinter library. You can install Matplotlib using the following command:
 
 ```
 pip install matplotlib
+```
+
+And Tkinter:
+```
 pip install tkinter
 ```
 
