@@ -1,0 +1,4 @@
+# Requirements for importing matplotlib and tkinter
+Python>=3.5
+matplotlib>=3.3.4
+tkinter
